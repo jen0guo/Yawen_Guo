@@ -1,4 +1,4 @@
-# Yawen Guo's Personal GitHub Repository
+# Yawen Guo's Portfolio and Personal GitHub Repository
 
 [Portfolio](https://github.com/jen0guo/Yawen_Guo/blob/main/Yawen%20Guo%20-%20Portfolio%20(Web).pdf)
 
