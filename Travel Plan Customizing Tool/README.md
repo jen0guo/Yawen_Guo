@@ -69,6 +69,3 @@ Additionally, this application would be a time saver for those who need to spend
 | place_to_visit | Array |
 | restaurants_to_visit | Array |
 | visit_priority | Array |
-
-## Link to our main document
-https://docs.google.com/document/d/1UzABK_UNkesL1jw0-JaoVgiDWVxtfrEjfG-Znp3GAaY/edit?usp=sharing
