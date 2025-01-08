@@ -9,5 +9,5 @@
 
 * [DawGo](https://github.com/jen0guo/Yawen_Guo/tree/main/DawGo)
 
-  This work example includes a codebase for a website application and a code structure analysis report. DawGo is a web app developed to assist UW students in trading second-hand goods, promoting a sustainable lifestyle. Built with **React** and powered by **Firebase**, the app ensures efficient data management and real-time updates. Its responsive and accessible interface, designed using **Bootstrap**, provides a smooth user experience across all devices.
+  This work example includes a codebase for a website application and a code structure analysis report. DawGo is a web app developed to assist UW students in trading second-hand goods, promoting a sustainable lifestyle. Built with **React** and powered by **Firebase**, the app ensures efficient data management and real-time updates. Its responsive and accessible interface, designed using **Bootstrap**, provides a smooth user experience across all devices. Click to visit [DawGo](https://dawgo-63d5f.web.app) website. (The full content may not be displayed as the database may not be available.)
   
